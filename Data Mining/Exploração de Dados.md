@@ -1,4 +1,6 @@
-## Exploração de Dados:
+# Exploração de Dados:
+
+## Quantidade de Pedidos
 
 ![alt text](image.png)
 
@@ -7,6 +9,8 @@
 2. **Pedidos Não Entregues**: Apesar que a quantidade seja significativamente menor (aprox. **2,98%**), ainda representa uma quantidade de pedidos que não chegaram ao destino final. É importante entender os motivos por trás desses casos para melhorar a eficácia da entrega.
 
 ---
+
+## Quantidade de pedidos por Status
 
 ![alt text](image-1.png)
 
@@ -21,6 +25,8 @@
 5. **Criação e Aprovação**: Existem muito poucos pedidos nas etapas iniciais de "created" e "approved". Isso pode indicar que os pedidos estão sendo processados rapidamente através dessas etapas iniciais, o que geralmente é um bom sinal de eficiência.
 
 ---
+
+## Evolução ao longo do tempo
 
 ![alt text](image-2.png)
 
