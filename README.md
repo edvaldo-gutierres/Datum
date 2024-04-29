@@ -8,7 +8,7 @@ Eu sou Edvaldo Gutierres - [LinkedIn](https://www.linkedin.com/in/edvaldo-gutier
 
 **Objetivo**: O projeto foca na análise de dados de vendas do dataset Olist E-commerce disponível no Kaggle, seguindo as melhores práticas de ETL (Extract, Transform, Load) e preparação de dados para analise de dados.
 
-![alt text](image.png)
+![alt text](olist.png)
 
 ## 📁 Estrutura do Projeto
 
